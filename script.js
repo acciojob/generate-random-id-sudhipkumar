@@ -1,7 +1,7 @@
 function makeid(l) {
   // write down your code here
 	let text="";
-	for(let i=0; i<1; i++){
+	for(let i=1; i<=1; i++){
 		text+= l.length;
 	}
 	return text;
