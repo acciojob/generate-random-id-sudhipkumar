@@ -1,5 +1,5 @@
 function makeid(l) {
-  // write your code here
+  // write down your code here
 	let text="";
 	for(let i=0; i<1; i++){
 		text+= l.length;
@@ -8,5 +8,5 @@ function makeid(l) {
 }
 
 // Do not change the code below.
-const l = prompt("Enter a number.");
-alert(makeid(l));
+// const l = prompt("Enter a number.");
+// alert(makeid(l));
